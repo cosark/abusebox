@@ -186,6 +186,10 @@ docker run --rm -v abusebox_abusebox-data:/data -v "$PWD":/backup alpine tar czf
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/AbuseBox/)
+
 ## Configuration
 
 AbuseBox runs with no configuration. To change anything, copy the full example and edit it:
